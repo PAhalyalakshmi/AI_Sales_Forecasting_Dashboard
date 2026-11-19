@@ -1,0 +1,50 @@
+
+Order_ID,Order_Date,Region,Category,Product,Sales,Profit,Quantity
+ORD-001,2024-01-05,South,Technology,Laptop,12500,2500,5
+ORD-002,2024-01-15,North,Office Supplies,Notebook,1800,450,30
+ORD-003,2024-02-08,East,Furniture,Chair,4200,700,8
+ORD-004,2024-02-20,West,Technology,Monitor,8500,1600,10
+ORD-005,2024-03-10,South,Office Supplies,Printer Paper,2200,500,40
+ORD-006,2024-03-22,North,Technology,Keyboard,3800,900,20
+ORD-007,2024-04-04,East,Furniture,Desk,9500,1800,5
+ORD-008,2024-04-19,West,Technology,Laptop,14500,3000,6
+ORD-009,2024-05-07,South,Office Supplies,Notebook,2500,600,35
+ORD-010,2024-05-25,North,Furniture,Chair,5000,900,10
+ORD-011,2024-06-09,East,Technology,Monitor,9800,2100,12
+ORD-012,2024-06-18,West,Office Supplies,Printer Paper,2800,700,50
+ORD-013,2024-07-03,South,Technology,Laptop,16000,3500,7
+ORD-014,2024-07-17,North,Office Supplies,Keyboard,4100,1000,25
+ORD-015,2024-08-06,East,Furniture,Desk,11000,2200,6
+ORD-016,2024-08-21,West,Technology,Monitor,10500,2300,14
+ORD-017,2024-09-02,South,Office Supplies,Notebook,3000,750,45
+ORD-018,2024-09-14,North,Technology,Laptop,17500,3800,8
+ORD-019,2024-10-05,East,Furniture,Chair,6200,1200,12
+ORD-020,2024-10-24,West,Office Supplies,Printer Paper,3200,800,55
+ORD-021,2024-11-08,South,Technology,Monitor,12500,2800,15
+ORD-022,2024-11-19,North,Furniture,Desk,13000,2700,7
+ORD-023,2024-12-04,East,Technology,Laptop,19500,4200,9
+ORD-024,2024-12-20,West,Office Supplies,Notebook,3500,900,50
+ORD-025,2025-01-05,South,Technology,Laptop,21000,4500,10
+ORD-026,2025-01-15,North,Office Supplies,Notebook,3800,1000,60
+ORD-027,2025-02-08,East,Furniture,Chair,7200,1500,14
+ORD-028,2025-02-20,West,Technology,Monitor,13500,3000,18
+ORD-029,2025-03-10,South,Office Supplies,Printer Paper,4000,1100,70
+ORD-030,2025-03-22,North,Technology,Keyboard,5500,1400,35
+ORD-031,2025-04-04,East,Furniture,Desk,14500,3200,9
+ORD-032,2025-04-19,West,Technology,Laptop,23000,5000,11
+ORD-033,2025-05-07,South,Office Supplies,Notebook,4500,1200,75
+ORD-034,2025-05-25,North,Furniture,Chair,8500,1800,16
+ORD-035,2025-06-09,East,Technology,Monitor,15500,3500,20
+ORD-036,2025-06-18,West,Office Supplies,Printer Paper,4800,1300,80
+ORD-037,2025-07-03,South,Technology,Laptop,25000,5500,12
+ORD-038,2025-07-17,North,Office Supplies,Keyboard,6500,1700,40
+ORD-039,2025-08-06,East,Furniture,Desk,17000,3800,10
+ORD-040,2025-08-21,West,Technology,Monitor,18000,4000,22
+ORD-041,2025-09-02,South,Office Supplies,Notebook,5200,1400,85
+ORD-042,2025-09-14,North,Technology,Laptop,27000,6000,13
+ORD-043,2025-10-05,East,Furniture,Chair,9500,2100,18
+ORD-044,2025-10-24,West,Office Supplies,Printer Paper,5500,1500,90
+ORD-045,2025-11-08,South,Technology,Monitor,19500,4500,25
+ORD-046,2025-11-19,North,Furniture,Desk,19000,4200,12
+ORD-047,2025-12-04,East,Technology,Laptop,29000,6500,15
+ORD-048,2025-12-20,West,Office Supplies,Notebook,6000,1600,95
